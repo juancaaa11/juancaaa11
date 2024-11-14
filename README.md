@@ -49,7 +49,13 @@
 
 ---
 
-👀 **Visitas a mi perfil**  
+### 👀 **Visitas a mi Perfil**
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juancaaa11&color=brightgreen" alt="Contador de Visitas">
+  <img src="https://komarev.com/ghpvc/?username=juancaaa11&color=brightgreen&style=for-the-badge" alt="Contador de Visitas">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=%C2%A1Gracias+por+visitar+mi+perfil!+;Echa+un+vistazo+a+mis+proyectos+%F0%9F%91%80;Estemos+en+contacto+%F0%9F%91%8B" alt="Mensaje de bienvenida">
 </p>
