@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge" alt="Eclipse">
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
 </p>
 
 ---
