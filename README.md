@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Juan Carlos González Pino
 
-### 🎓 **Técnico Medio en Sistemas Microinformáticos**  
-### 🎓 **Técnico Superior en Desarrollo Web**
+### 🎓 **Técnico Medio en Sistemas Microinformáticos y Redes**  
+### 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web**
 
 ---
 
