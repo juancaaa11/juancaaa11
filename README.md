@@ -3,6 +3,12 @@
 ### 🎓 **Técnico Medio en Sistemas Microinformáticos y Redes**  
 ### 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web**
 
+
+<p align="center">
+  <img src="https://github.com/juancaaa11/juancaaa11/_image/WebDeveloperLinkedlnBanner.png" alt="Banner" width="100%">
+</p>
+
+
 ---
 
 🌱 Desarrollador en constante aprendizaje y apasionado por la tecnología. Mis proyectos abarcan desde el desarrollo web hasta la optimización de sistemas, con un enfoque especial en crear experiencias de usuario modernas y funcionales.
