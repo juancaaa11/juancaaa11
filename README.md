@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/juancaaa11/juancaaa11/_image/WebDeveloperLinkedlnBanner.png" alt="Banner" width="100%">
+  <img src="https://github.com/juancaaa11/juancaaa11/blob/main/_image/WebDeveloperLinkedInBanner.png" alt="Banner" width="100%">
 </p>
 
 
