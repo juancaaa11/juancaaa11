@@ -51,6 +51,9 @@
   <a href="https://www.linkedin.com/in/juancaaa11" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://twitter.com/juancaaa11" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/juancaaa11" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="https://instagram.com/juancaaa11" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  </a>
 </p>
 
 ---
