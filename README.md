@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Carlos González Pino
+# 👋 ¡Hi! I am Juan Carlos González Pino
 
 ### 🎓 **Técnico Medio en Sistemas Microinformáticos y Redes**  
 ### 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web**
