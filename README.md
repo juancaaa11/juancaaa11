@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Business+Logic+%26+API+Design;Clean+Code+%7C+Scalable+Systems;Open+to+Freelance+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot;Business+Logic+%26+API+Design;Clean+Code+%7C+Scalable+Systems;Open+to+Freelance+Opportunities" />
 </p>
 
 ---
